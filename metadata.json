@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "Nền tảng trao đổi kỹ năng giữa sinh viên – Dạy những gì bạn biết, học những gì bạn cần.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
